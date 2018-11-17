@@ -1,0 +1,32 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/tongjian/Desktop/development/ruby_stu/products-service/spec/api_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1542378306
+  }
+}
